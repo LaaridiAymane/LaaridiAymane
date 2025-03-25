@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laaridiaymane&label=Profile%20views&color=0e75b6&style=flat-square" alt="laaridiaymane" /> </p>
 
-- 🔭 I’m currently working on **drain_management**
+- 🔭 I’m currently working on **Website Generator**
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [https://laaridiaymane.netlify.app/](https://laaridiaymane.netlify.app/)
 
